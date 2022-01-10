@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Bussun, just a random guy learning how to code in several languages (as of right now JavaScript, C# and C).
+I spend my time ~~well, at school since I'm one of the few who actually likes it~~ on creating some small web applications
+and my biggest project is a text editor for Super Mario Galaxy (not yet open source). You can reach me on Discord (#0586)
+(btw I don't see why you would but if you need to)
 
 <!--
 **Bussun/Bussun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
